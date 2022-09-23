@@ -39,17 +39,13 @@ Here are some ideas to get you started:
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)
   ![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
-
-  
-  ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=dd1b16)
   ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
   
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
@@ -65,11 +61,11 @@ Here are some ideas to get you started:
 
   <summary> <b><u>More Stats</u></b> </summary>
   <br>
-  <a href="https://github.com/AhmedElshamy2">
-    <img align="centre" src="https://github-readme-stats.vercel.app/api?username=AhmedElshamy2&theme=vue&show_icons=true">
+  <a href="https://github.com/Ahmed-Elshamyi">
+    <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshami&theme=vue&show_icons=true">
   </a>
-    <a href="https://github.com/AhmedElshamy2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshamy2&theme=nord_bright&langs_count=16"/>
+    <a href="https://github.com/Ahmed-Elshamyi">
+      <img align="center mb-5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshami&theme=nord_bright&langs_count=16"/>
     </a
   
   
