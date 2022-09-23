@@ -40,21 +40,18 @@ Here are some ideas to get you started:
   ![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
   
   ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
   ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
   
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Php Storm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
   
   
  <p align="center">
@@ -86,10 +83,10 @@ Here are some ideas to get you started:
 
 ## ❤ Views
 <p>
-<a href="https://github.com/AhmedElshamy2/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AhmedElshamy2">
+<a href="https://github.com/Ahmed-Elshami/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed-Elshamyi">
 </a>
-<a href="https://github.com/AhmedElshamy2?tab=followers"><img src="https://img.shields.io/github/followers/AhmedElshamy2?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ahmed-Elshami?tab=followers"><img src="https://img.shields.io/github/followers/AhmedElshamy2?label=Followers&style=social" alt="GitHub Badge"></a>
  </p>
 
 ##  🤝🏻 &nbsp;Connect with Me
