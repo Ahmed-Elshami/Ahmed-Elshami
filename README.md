@@ -64,6 +64,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/Ahmed-Elshamyi">
     <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshami&theme=vue&show_icons=true">
   </a>
+  <a href="https://github.com/Ahmed-Elshamyi">
+    <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshami&theme=nord_bright&langs_count=16">
+  </a>
+  
+  
   
   
   
